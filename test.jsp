@@ -3,7 +3,7 @@
     	<head><title>hello world</title></head>
     	<body>
     	<h2>
-            	EDITED TOMCAT PIPE TEST!!! <br><br>
+            	TEST!!! <br><br>
             	time : <%= new java.util.Date()%>
             	<%@ page import="java.net.InetAddress" %><br>
             	<%InetAddress inet= InetAddress.getLocalHost();%>
